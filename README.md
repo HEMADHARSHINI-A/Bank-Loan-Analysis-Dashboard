@@ -1,7 +1,7 @@
 # 🏦 Bank Loan Analysis Dashboard
 
 <p align="center">
-  <img src="image/Bank_Loan_Analysis_Dashboard.png" alt="Bank Loan Analysis Dashboard" width="100%">
+  <img src="image/bank_loan_analysis_dashboard.png" alt="Bank Loan Analysis Dashboard" width="100%">
 </p>
 
 <p align="center">
