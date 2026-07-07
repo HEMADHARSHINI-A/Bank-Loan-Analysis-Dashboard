@@ -199,8 +199,8 @@ Bank_Loan_Analysis/
 ├── Dataset/
 │   └── loan_data.csv
 │
-├── Images/
-│   └── Bank_Loan_Analysis_Dashboard.png
+├── image/
+│   └── bank_loan_analysis_dashboard.png
 │
 ├── README.md
 │
